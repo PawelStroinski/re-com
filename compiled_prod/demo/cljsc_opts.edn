@@ -1,0 +1,1 @@
+{:output-dir "run/resources/public/compiled_prod/demo", :closure-defines {"goog.DEBUG" false}, :externs ["closure-js/externs"], :optimizations :advanced, :output-to "run/resources/public/compiled_prod/demo.js", :output-wrapper true, :libs ["closure-js/libs"], :pseudo-names false, :pretty-print false}
